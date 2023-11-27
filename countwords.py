@@ -1,4 +1,3 @@
-
 test_string = "Geeksforgeeks is best Computer Science Portal"
 
 print ("The original string is : " + test_string)
